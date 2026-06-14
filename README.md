@@ -246,7 +246,7 @@ Evaluated on **2024 holdout data** — never seen during training or hyperparame
 
 ```bash
 # Clone the repo
-git clone https://github.com/omnaik21/NeuroTrade.git
+git clone https://github.com/Murali-Manohara/NeuroTrade.git
 cd NeuroTrade
 
 # Create virtual environment
