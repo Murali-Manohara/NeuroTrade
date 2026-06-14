@@ -350,6 +350,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ⭐ If you found this project useful, please give it a star!
 
-[![GitHub stars](https://img.shields.io/github/stars/omnaik21/NeuroTrade?style=social)](https://github.com/omnaik21/NeuroTrade)
+[![GitHub stars](https://img.shields.io/github/stars/Murali-Manohara/NeuroTrade?style=social)](https://github.com/Murali-Manohara/NeuroTrade)
 
 </div>
